@@ -155,3 +155,14 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+  .icon-container {
+    text-align: center;   /* 水平居中 */
+    margin-top: 10px;     /* 和标题拉开点距离 */
+    margin-bottom: 10px;     /* 和标题拉开点距离 */
+  }
+
+  .page-icon {
+    width: 48px;          /* 👈 控制大小，常见 32 / 40 / 48 */
+    height: auto;
+  }
